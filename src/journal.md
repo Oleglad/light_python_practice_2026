@@ -34,5 +34,4 @@ accessed;
 вывод полного списка файлов уже с хэшами;
 группировку по расширениям;
 сохранение отчёта в report_YYYYMMDD_HHMMSS.txt;
-
 подсчёт total_hashed и hash_errors.
